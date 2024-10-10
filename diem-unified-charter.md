@@ -41,11 +41,6 @@ already own related scope. Divergent requirements between such stakeholders
 may result in distinct units of work, but this determination is left to this
 first milestone of the Working Group.
 
-- Define reusable format(s) for Digital Emblems
-- Define validation mechanism(s) for Digital Emblems
-- Define discovery of Digital Emblems for Digital Assets
-- Define discovery of Digital Emblems for Physical Assets
-
 ### BoF v2 discussion TODO: should this WG adopt both digital and physical assets? 
 
 It is not typical for IETF work to address the expectations of entities that are
